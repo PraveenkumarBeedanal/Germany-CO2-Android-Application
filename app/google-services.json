@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "634865764641",
+    "firebase_url": "https://androidapp-dd985.firebaseio.com",
+    "project_id": "androidapp-dd985",
+    "storage_bucket": "androidapp-dd985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634865764641:android:ac20c5b0761e0077",
+        "android_client_info": {
+          "package_name": "com.thesis.carbon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634865764641-2i83c7m1q4l90fgrdreti5oud5c7deid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thesis.carbon",
+            "certificate_hash": "66352bf7bc9bd63182175accf3973cd78f1c8699"
+          }
+        },
+        {
+          "client_id": "634865764641-f0g7q6ds8ub4acvaobdapg125lgtngc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvieM6LSoMh_QJeozEyCGBtIX25bAoAFs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634865764641-f0g7q6ds8ub4acvaobdapg125lgtngc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
